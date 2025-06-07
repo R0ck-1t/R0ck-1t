@@ -1,6 +1,6 @@
 Hello,
 
-I am Sean Rice.
+I my name is Sean Rice.
 
 This is my professional Github meant for colaberations and projects.
 
